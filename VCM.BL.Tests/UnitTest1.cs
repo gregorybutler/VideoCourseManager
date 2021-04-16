@@ -8,7 +8,7 @@ namespace VCM.BL.Tests
     [Fact]
     public void Test1()
     {
-      throw new NotImplementedException();
+      // TODO: implement tests
     }
   }
 }
